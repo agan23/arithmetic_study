@@ -1,0 +1,6 @@
+framework module Pods_FaseTest002 {
+  umbrella header "Pods-FaseTest002-umbrella.h"
+
+  export *
+  module * { export * }
+}
